@@ -1,0 +1,17 @@
+{
+  "name": "vt",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.39.5",
+    "eslint": "^8.43.0",
+    "typescript": "^5.1.3"
+  }
+}
